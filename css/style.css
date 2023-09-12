@@ -312,6 +312,7 @@
 
 
 /*** Service ***/
+
 .service-item img {
     transition: .5s;
 }
@@ -620,4 +621,8 @@
 
 .footer .copyright a:hover {
     color: var(--primary);
+}
+
+.nav-img{
+    height: 50px;
 }
